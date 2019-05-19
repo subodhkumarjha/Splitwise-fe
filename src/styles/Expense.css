@@ -1,0 +1,23 @@
+.form {
+    padding-bottom: 100px;
+    padding-top: 200px;
+}
+
+.inputName{
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 60px;
+    padding-top: 10px;
+}
+
+.div {
+    padding-bottom: 20px;
+}
+
+.button{
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 60px;
+    padding-top: 10px;
+    color: deepskyblue;
+}
